@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chao Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chao
+last_name: Liu
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Minnesota State University Mankato
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
