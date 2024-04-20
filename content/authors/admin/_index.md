@@ -22,16 +22,16 @@ role: Assistant Professor of Sociology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Minnesota State University Mankato
-    url: https://www.stanford.edu/
+    url: https://www.mnsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational social science, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Social Science
+  - Data Visualization
+  - Economic Sociology
 
 # Education to show in About widget
 education:
