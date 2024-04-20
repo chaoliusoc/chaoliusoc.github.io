@@ -25,52 +25,57 @@ organizations:
     url: https://www.mnsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational social science, mobile computing and programmable matter.
+bio: Hello! I am an Assistant Professor of Sociology and Interim Director of Nonprofit Leadership program at Minnesota State University, Mankato.
+
+Broadly speaking, I am interested in the formation and evolution of social networks and their implications for the creation of social inequality. Social networks are important because they have powerful and often hidden influences on social behavior. Micro-level network processes scale up to help explain aggregate variation in power and resources across social groups. Much of my research utilizes quantitative and computational social science methods to analyze large-scale datasets.
+
+My current research projects: 1) explore network structures at work-related virtual platforms and how the networks affect individuals and organizations; 2) investigate how institutional conditions shape the access to employment opportunities through social networks; 3) examine how social networks impact health outcomes while accounting for individual genetic predisposition, aiming to better understand causal network effects.
+
+Email me at chao.liu@mnsu.edu. Click here for my CV.
 
 # Interests to show in About widget
 interests:
   - Computational Social Science
   - Data Visualization
+  - Social Networks
+  - Technology and Work
   - Economic Sociology
+  - Organizations
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD in Sociology
+      institution: North Carolina State University
+      year: 2022
+    - course: MA in Sociology
+      institution: University of Arkansas
+      year: 2016
+    - course: BSc in Sociology
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
+        icon: R
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+ 
       - name: SQL
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+ # - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+     # - name: Hiking
         description: ''
         percent: 60
         icon: person-hiking
@@ -94,12 +99,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -119,6 +118,3 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
